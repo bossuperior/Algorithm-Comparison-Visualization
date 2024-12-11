@@ -1,0 +1,7 @@
+# Rider/IntelliJ IDEA
+.idea/
+
+# Visual Studio
+.vs/
+
+Week01.sln.DotSettings.user

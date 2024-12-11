@@ -1,0 +1,7 @@
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\bin\Debug\Chart.exe.config
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\bin\Debug\Chart.exe
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\bin\Debug\Chart.pdb
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\obj\Debug\Chart.csproj.AssemblyReference.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\obj\Debug\Chart.exe
+C:\Users\BosSuperior\Desktop\Programming\C##\Week01_1\Chart\obj\Debug\Chart.pdb
